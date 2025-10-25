@@ -12,7 +12,7 @@ namespace GA_MDPC_Fumigation.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.7.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "17.14.0.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -62,8 +62,8 @@ namespace GA_MDPC_Fumigation.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=WAIYANMG;Initial Catalog=GA_MDPC_FUMIGATION;Persist Security Info=Tru" +
-            "e;User ID=SageDeveloper;Password=P@ssw0rd")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=WAIYANMAUNG;Initial Catalog=GA_MDPC_FUMIGATION;Persist Security Info=" +
+            "True;User ID=SageDeveloper;Password=P@ssw0rd")]
         public string GA_MDPC_FUMIGATIONConnectionString {
             get {
                 return ((string)(this["GA_MDPC_FUMIGATIONConnectionString"]));
